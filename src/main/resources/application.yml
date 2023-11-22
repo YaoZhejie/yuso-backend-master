@@ -32,9 +32,9 @@ spring:
 #   Elasticsearch 配置
 #   todo 需替换配置，然后取消注释
   elasticsearch:
-    uris: http://106.54.176.247:9200
-    username: root
-    password: 123456
+    uris: http://XXX.XXXX.X:9200
+    username: xxxxxxx
+    password: xxxxxxxxx
   # 文件上传
   servlet:
     multipart:
